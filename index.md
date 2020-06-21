@@ -9,3 +9,6 @@ This feat is only possible by his friend, Ford Prefect, an alien posing as an ea
 * Learns how to fly later in the books
 * From earth
 * Likes Trillian
+
+Arthur Dent:
+> Would it save you a lot of time if I just gave up and went mad now?
