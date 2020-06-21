@@ -12,3 +12,5 @@ This feat is only possible by his friend, Ford Prefect, an alien posing as an ea
 
 Arthur Dent:
 > Would it save you a lot of time if I just gave up and went mad now?
+
+<img src="https://en.wikipedia.org/wiki/File:Arthur_Dent_Livid.jpg"/>
